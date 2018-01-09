@@ -1,0 +1,11 @@
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\bin\Debug\ApartmanOto.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\bin\Debug\ApartmanOto.exe
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\bin\Debug\ApartmanOto.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.Gelirler.resources
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.Giderler.resources
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.exe
+c:\users\wissen\documents\visual studio 2015\Projects\ApartmanOto\ApartmanOto\obj\Debug\ApartmanOto.pdb
